@@ -1,0 +1,15 @@
+PATRICIA ARDILA
+ALGORTIMO CALCULADORA PERSONAL
+
+1. Pedir el primer numero
+2. Pedir el segundo numero
+3. Sumar los dos numeros
+4. Mostrar el resultado
+
+PSEUDOCODIGO
+INICIO CALCULADORA_SUMA
+  LEER primer_numero
+  LEER segundo_numero
+  suma <- primer_numero + segundo_numero
+  ESCRIBIR suma
+FIN
